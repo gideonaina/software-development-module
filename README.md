@@ -31,4 +31,4 @@ Lecture Schedule
 Thanks
 ------
 
-Special thanks go out to Jason Baker for his for allowing us adopt his DevOps & Cloud Infrastructure Curriculum. We inspiration from his outline and course structure for this Module and the IT Infrastructure module. 
+Special thanks to Jason Baker for allowing us adopt his DevOps & Cloud Infrastructure Curriculum. We took inspiration from his outline and course structure for this Module and the IT Infrastructure module. 
