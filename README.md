@@ -32,7 +32,7 @@ Communication
 
 * Join this slack Channel [software-dev](https://join.slack.com/t/leanonproject/shared_invite/enQtNzM5MzI5ODU3NTU0LTdmNWIwMGNkYzRjODc1ZjRhNzM3YjJlNGFjOGFmYzNkM2QzNDRiMDFkNzZkMzNlMDU1NTNlZDNiYTJjYzc4M2Y)
 * Email - gideonaina@leanonproject.org
-* Google Classroom - [Software Development](https://classroom.google.com/c/NDI3MTYwMjIzNjZa)
+* Google Classroom - [Software Development](https://classroom.google.com/c/NDI3MTYwMjIzNjZa) - Not fully functional
 
 Thanks
 ------
