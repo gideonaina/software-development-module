@@ -52,9 +52,10 @@ For help with using github classroom watch this video:
 http://www.youtube.com/watch?v=euUdiVU0A_k&t=4m21s
 
 Once you accept the invitation and clone the repo, follow these steps:
-* Create a directory at the top level called ìuxî
-* Create a file called ìindex.htmlî
+* Create a directory at the top level called ‚Äúux‚Äù
+* Create a file called ‚Äúindex.html‚Äù
 * Paste the Simple html code in the file
+```
 <!DOCTYPE html>
 <html>
 <body>
@@ -63,14 +64,16 @@ Once you accept the invitation and clone the repo, follow these steps:
 
 </body>
 </html>
-* Delete the content of the README file and you full name (as Heading) and ìFirst Commitî as body.
+```
+
+* Delete the content of the README file and you full name (as Heading) and ‚ÄúFirst Commit‚Äù as body.
 * Add and commit the file and directory to git using this git comment
-ìBSSD - Test Commitî
+‚ÄúBSSD - Test Commit‚Äù
 * Push to remote repo on github.
 
 
 
 
-Credit - Jason Baker <bake2352@stthomas.edu>
+`Credit - Jason Baker <bake2352@stthomas.edu>`
 
 
