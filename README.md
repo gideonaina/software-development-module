@@ -37,4 +37,4 @@ Communication
 Thanks
 ------
 
-Special thanks to Jason Baker for allowing us adopt his DevOps & Cloud Infrastructure Curriculum. We took inspiration from his outline and course structure for this Module and the IT Infrastructure module. 
+Special thanks to Jason Baker for allowing us adopt his [DevOps & Cloud Infrastructure Curriculum](https://github.com/jasondbaker/infrastructure-class). We took inspiration from his outline and course structure for this Module and the IT Infrastructure module. 
