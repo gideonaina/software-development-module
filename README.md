@@ -34,6 +34,12 @@ Communication
 * Email - gideonaina@leanonproject.org
 * Google Classroom - [Software Development](https://classroom.google.com/c/NDI3MTYwMjIzNjZa) - Not fully functional
 
+
+Class Material
+-------------
+
+Youtube Playlist of Class Recording - [Class Recording](https://www.youtube.com/playlist?list=PL46dULUY_MoxN2Vq08tOEYq84b_HcrzkN)
+
 Thanks
 ------
 
