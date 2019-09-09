@@ -22,10 +22,10 @@ Lecture Schedule
 | 2    | Introduction to Software Development Process                           |
 | 3    | Introduction to Data structures and Algorithm                          |
 | 4    | Object Oriented Programming using Java                                 |
-| 5    | TBD                                                                    |
-| 6    | TBD                                                                    |
-| 7    | TBD                                                                    |
-| 8    | TBD                                                                    |
+| 5    | Project - App Development                                              |
+| 6    | Project - App Development                                                                    |
+| 7    | Project - App Development                                                                    |
+| 8    | Project - App Development                                                                    |
 
 Communication
 -------------
