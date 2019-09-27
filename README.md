@@ -20,8 +20,8 @@ Lecture Schedule
 |------|------------------------------------------------------------------------|
 | 1    | General & Course Introduction, Source control, Git & Other Tools       |
 | 2    | Introduction to Software Development Process                           |
-| 3    | Introduction to Data structures and Algorithm                          |
-| 4    | Object Oriented Programming using Java                                 |
+| 3    | Introduction to Programming using Python.                          |
+| 4    | Data Structures and Algorithms                                 |
 | 5    | Project - App Development                                              |
 | 6    | Project - App Development                                                                    |
 | 7    | Project - App Development                                                                    |
